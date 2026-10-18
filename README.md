@@ -24,7 +24,7 @@ Voici la liste des compétences actuellement disponibles dans ce dépôt :
 | 🛡️ Nom du Skill | 📝 Description | 🔗 Lien |
 | :--- | :--- | :--- |
 | **Droit à l'Oubli (RGPD)** | Expert juridique accompagnant l'utilisateur de A à Z pour faire effacer ses données personnelles d'internet (déréférencement, source, CNIL). | [Voir le skill](./skills/droit-a-l-oubli/) |
-| *(D'autres à venir)* | *Ajoutez ici la description de vos futurs skills...* | |
+| *(D'autres à venir)* | *...* | |
 
 ## 🚀 Comment utiliser ces skills ?
 
